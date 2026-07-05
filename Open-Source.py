@@ -1,5 +1,5 @@
 os.system("pkg install espeak")
-#-----------------[ Tutul-King ]-------------------#
+#-----------------[ Soham-King ]-------------------#
  
 import requests,bs4,json,os,sys,random,datetime,time,re
 import urllib3,rich,base64
@@ -16,7 +16,7 @@ from rich.text import Text as tekz
 from time import localtime as lt
 pretty.install()
 CON=sol()
- #------------------[ Tutul-King ]-------------------#
+ #------------------[ Soham-King ]-------------------#
 import os, platform, time, sys
 print('\033[97;1m[\033[92;1m+\033[97;1m] \033[0;92mChecking Update...? ')
 time.sleep(5)
@@ -24,7 +24,7 @@ os.system('clear')
 print("\033[97;1m[\033[92;1m+\033[97;1m] \033[0;92mJOIN MY SCRIPT GIFT GROUP")
 time.sleep(2)
 os.system(f'xdg-open https://facebook.com/groups/554714119911648/')
-#------------------[ Tutul-King ]-------------------#
+#------------------[ Soham-King ]-------------------#
 #------------------[ USER-AGENT ]-------------------#
 ua = ["Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 8.0.0; SM-J600GT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.111 Mobile Safari/537.36",]
@@ -111,7 +111,7 @@ pwpluss,pwnya=[],[]
  
  
 
-#------------[ Tutul- ]--------------#
+#------------[ Soham- ]--------------#
  
 P = '\x1b[1;97m'
 M = '\x1b[1;91m'
@@ -187,7 +187,7 @@ def clear():
 def back():
     login()
 def contact():
-   # os.system('xdg-open https://www.facebook.com/Tutul.King.Ok.Bro')
+   # os.system('xdg-open https:xxxxxxx')
     back()
 def linex():
     print('\033[1;37m')
